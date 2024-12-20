@@ -1,0 +1,26 @@
+10 mov a 5
+11 mov b 7
+12 mov c 10
+20 out a
+21 out b
+22 out c
+30 add a b
+32 out a 
+33 sub a b
+34 out a 
+41 mul c a
+42 out a
+43 div c a
+44 out a
+50 out b
+51 inc b
+52 out b
+53 dec b
+54 out b
+60 out a
+61 out b
+62 out c
+70 jnz a 90
+80 out a
+90 mov d 90
+91 out d
